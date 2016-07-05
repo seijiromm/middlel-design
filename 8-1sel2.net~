@@ -1,0 +1,165 @@
+* SPICE FET model
+.lib 'mos_tt.lib'
+mfet1 0 11 10 0 pch w=18u l=2u
+mfet2 0 28 14 0 pch w=18u l=2u
+mfet3 0 6 10 0 pch w=18u l=2u
+mfet4 0 5 14 0 pch w=18u l=2u
+mfet5 0 8 10 0 pch w=18u l=2u
+mfet6 0 2 14 0 pch w=18u l=2u
+mfet7 0 9 10 0 pch w=18u l=2u
+mfet8 0 18 14 0 pch w=18u l=2u
+mfet9 0 16 15 0 pch w=18u l=2u
+mfet10 0 27 13 0 pch w=18u l=2u
+mfet11 0 12 15 0 pch w=18u l=2u
+mfet12 0 5 13 0 pch w=18u l=2u
+mfet13 0 13 15 0 pch w=18u l=2u
+mfet14 0 2 13 0 pch w=18u l=2u
+mfet15 0 14 15 0 pch w=18u l=2u
+mfet16 0 20 13 0 pch w=18u l=2u
+mfet17 0 15 59 0 pch w=18u l=2u
+mfet18 0 26 12 0 pch w=18u l=2u
+mfet19 17 10 59 0 pch w=18u l=2u
+mfet20 0 5 12 0 pch w=18u l=2u
+mfet21 0 19 18 0 pch w=18u l=2u
+mfet22 0 4 12 0 pch w=18u l=2u
+mfet23 0 18 20 0 pch w=18u l=2u
+mfet24 0 18 12 0 pch w=18u l=2u
+mfet25 0 20 16 0 pch w=18u l=2u
+mfet26 0 25 16 0 pch w=18u l=2u
+mfet27 0 4 16 0 pch w=18u l=2u
+mfet28 0 5 16 0 pch w=18u l=2u
+mfet29 0 3 2 0 pch w=18u l=2u
+mfet30 0 24 11 0 pch w=18u l=2u
+mfet31 0 2 4 0 pch w=18u l=2u
+mfet32 0 7 11 0 pch w=18u l=2u
+mfet33 0 6 5 0 pch w=18u l=2u
+mfet34 0 2 11 0 pch w=18u l=2u
+mfet35 0 5 7 0 pch w=18u l=2u
+mfet36 0 18 11 0 pch w=18u l=2u
+mfet37 0 20 9 0 pch w=18u l=2u
+mfet38 0 23 6 0 pch w=18u l=2u
+mfet39 0 4 9 0 pch w=18u l=2u
+mfet40 0 7 6 0 pch w=18u l=2u
+mfet41 0 7 9 0 pch w=18u l=2u
+mfet42 0 2 6 0 pch w=18u l=2u
+mfet43 0 21 9 0 pch w=18u l=2u
+mfet44 0 20 6 0 pch w=18u l=2u
+mfet45 0 18 8 0 pch w=18u l=2u
+mfet46 0 22 8 0 pch w=18u l=2u
+mfet47 0 4 8 0 pch w=18u l=2u
+mfet48 0 7 8 0 pch w=18u l=2u
+mfet49 1 18 20 1 nch w=6u l=2u
+mfet50 1 28 44 1 nch w=6u l=2u
+mfet51 1 19 18 1 nch w=6u l=2u
+mfet52 44 5 46 1 nch w=6u l=2u
+mfet53 1 15 17 1 nch w=6u l=2u
+mfet54 45 2 46 1 nch w=6u l=2u
+mfet55 1 10 17 1 nch w=6u l=2u
+mfet56 14 18 45 1 nch w=6u l=2u
+mfet57 15 16 33 1 nch w=6u l=2u
+mfet58 1 27 41 1 nch w=6u l=2u
+mfet59 32 12 33 1 nch w=6u l=2u
+mfet60 41 5 43 1 nch w=6u l=2u
+mfet61 32 13 34 1 nch w=6u l=2u
+mfet62 42 2 43 1 nch w=6u l=2u
+mfet63 1 14 34 1 nch w=6u l=2u
+mfet64 13 20 42 1 nch w=6u l=2u
+mfet65 10 11 30 1 nch w=6u l=2u
+mfet66 1 26 38 1 nch w=6u l=2u
+mfet67 29 6 30 1 nch w=6u l=2u
+mfet68 38 5 40 1 nch w=6u l=2u
+mfet69 29 8 31 1 nch w=6u l=2u
+mfet70 39 4 40 1 nch w=6u l=2u
+mfet71 1 9 31 1 nch w=6u l=2u
+mfet72 12 18 39 1 nch w=6u l=2u
+mfet73 16 20 36 1 nch w=6u l=2u
+mfet74 1 25 35 1 nch w=6u l=2u
+mfet75 36 4 37 1 nch w=6u l=2u
+mfet76 35 5 37 1 nch w=6u l=2u
+mfet77 1 5 7 1 nch w=6u l=2u
+mfet78 1 24 49 1 nch w=6u l=2u
+mfet79 1 6 5 1 nch w=6u l=2u
+mfet80 47 7 49 1 nch w=6u l=2u
+mfet81 1 2 4 1 nch w=6u l=2u
+mfet82 47 2 48 1 nch w=6u l=2u
+mfet83 1 3 2 1 nch w=6u l=2u
+mfet84 11 18 48 1 nch w=6u l=2u
+mfet85 9 20 57 1 nch w=6u l=2u
+mfet86 1 23 52 1 nch w=6u l=2u
+mfet87 56 4 57 1 nch w=6u l=2u
+mfet88 50 7 52 1 nch w=6u l=2u
+mfet89 56 7 58 1 nch w=6u l=2u
+mfet90 50 2 51 1 nch w=6u l=2u
+mfet91 1 21 58 1 nch w=6u l=2u
+mfet92 6 20 51 1 nch w=6u l=2u
+mfet93 8 18 54 1 nch w=6u l=2u
+mfet94 1 22 55 1 nch w=6u l=2u
+mfet95 53 4 54 1 nch w=6u l=2u
+mfet96 53 7 55 1 nch w=6u l=2u
+.end
+** Net name table **
+*$ OUT	0
+*$ inv1_v2.gex/Vdd	0
+*$ nand4_v2.gex/Vdd	0
+*$ nor2_v2.gex/Vdd	0
+*$ inv1_v2.gex/Gnd	1
+*$ nand4_v2.gex/Gnd	1
+*$ nor2_v2.gex/Gnd	1
+*$ inv1_v2.gex/A	2
+*$ nand4_v2.gex/C	2
+*$ inv1_v2.gex/Y	2
+*$ inv1_v2.gex/A	3
+*$ Y	3
+*$ nand4_v2.gex/C	4
+*$ inv1_v2.gex/Y	4
+*$ inv1_v2.gex/A	5
+*$ nand4_v2.gex/B	5
+*$ inv1_v2.gex/Y	5
+*$ inv1_v2.gex/A	6
+*$ nand4_v2.gex/C	6
+*$ X	6
+*$ nand4_v2.gex/Y	6
+*$ nand4_v2.gex/B	7
+*$ inv1_v2.gex/Y	7
+*$ nand4_v2.gex/B	8
+*$ nand4_v2.gex/Y	8
+*$ nand4_v2.gex/A	9
+*$ nand4_v2.gex/Y	9
+*$ nor2_v2.gex/B	10
+*$ nand4_v2.gex/Y	10
+*$ nand4_v2.gex/D	11
+*$ nand4_v2.gex/Y	11
+*$ nand4_v2.gex/C	12
+*$ nand4_v2.gex/Y	12
+*$ nand4_v2.gex/B	13
+*$ nand4_v2.gex/Y	13
+*$ nand4_v2.gex/A	14
+*$ nand4_v2.gex/Y	14
+*$ nor2_v2.gex/A	15
+*$ nand4_v2.gex/Y	15
+*$ nand4_v2.gex/D	16
+*$ nand4_v2.gex/Y	16
+*$ nor2_v2.gex/Y	17
+*$ inv1_v2.gex/A	18
+*$ nand4_v2.gex/D	18
+*$ inv1_v2.gex/Y	18
+*$ inv1_v2.gex/A	19
+*$ Z	19
+*$ nand4_v2.gex/D	20
+*$ inv1_v2.gex/Y	20
+*$ A	21
+*$ nand4_v2.gex/A	21
+*$ nand4_v2.gex/A	22
+*$ B	22
+*$ nand4_v2.gex/A	23
+*$ C	23
+*$ nand4_v2.gex/A	24
+*$ D	24
+*$ nand4_v2.gex/A	25
+*$ E	25
+*$ nand4_v2.gex/A	26
+*$ F	26
+*$ nand4_v2.gex/A	27
+*$ G	27
+*$ nand4_v2.gex/A	28
+*$ H	28

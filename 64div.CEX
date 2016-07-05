@@ -1,0 +1,162 @@
+* SPICE FET model
+.lib 'mos_tt.lib'
+mfet1 3 1 19 3 pch w=18u l=2u
+mfet2 17 19 60 3 pch w=18u l=2u
+mfet3 3 0 59 3 pch w=18u l=2u
+mfet4 3 21 60 3 pch w=18u l=2u
+mfet5 17 1 59 3 pch w=18u l=2u
+mfet6 3 17 21 3 pch w=18u l=2u
+mfet7 3 2 61 3 pch w=18u l=2u
+mfet8 5 6 58 3 pch w=18u l=2u
+mfet9 2 0 3 3 pch w=18u l=2u
+mfet10 5 31 57 3 pch w=18u l=2u
+mfet11 3 21 62 3 pch w=18u l=2u
+mfet12 3 35 57 3 pch w=18u l=2u
+mfet13 0 19 62 3 pch w=18u l=2u
+mfet14 1 5 3 3 pch w=18u l=2u
+mfet15 0 1 61 3 pch w=18u l=2u
+mfet16 3 1 58 3 pch w=18u l=2u
+mfet17 7 8 65 3 pch w=18u l=2u
+mfet18 3 24 66 3 pch w=18u l=2u
+mfet19 3 7 6 3 pch w=18u l=2u
+mfet20 7 28 66 3 pch w=18u l=2u
+mfet21 3 6 65 3 pch w=18u l=2u
+mfet22 3 6 31 3 pch w=18u l=2u
+mfet23 27 8 63 3 pch w=18u l=2u
+mfet24 3 5 67 3 pch w=18u l=2u
+mfet25 27 28 64 3 pch w=18u l=2u
+mfet26 3 32 35 3 pch w=18u l=2u
+mfet27 3 24 64 3 pch w=18u l=2u
+mfet28 3 35 68 3 pch w=18u l=2u
+mfet29 3 27 24 3 pch w=18u l=2u
+mfet30 32 31 68 3 pch w=18u l=2u
+mfet31 3 7 63 3 pch w=18u l=2u
+mfet32 32 6 67 3 pch w=18u l=2u
+mfet33 3 8 28 3 pch w=18u l=2u
+mfet34 3 10 40 3 pch w=18u l=2u
+mfet35 38 40 72 3 pch w=18u l=2u
+mfet36 3 9 71 3 pch w=18u l=2u
+mfet37 3 42 72 3 pch w=18u l=2u
+mfet38 38 10 71 3 pch w=18u l=2u
+mfet39 3 38 42 3 pch w=18u l=2u
+mfet40 3 8 69 3 pch w=18u l=2u
+mfet41 11 12 74 3 pch w=18u l=2u
+mfet42 3 9 8 3 pch w=18u l=2u
+mfet43 11 45 73 3 pch w=18u l=2u
+mfet44 3 42 70 3 pch w=18u l=2u
+mfet45 3 56 73 3 pch w=18u l=2u
+mfet46 9 40 70 3 pch w=18u l=2u
+mfet47 3 11 10 3 pch w=18u l=2u
+mfet48 9 10 69 3 pch w=18u l=2u
+mfet49 3 10 74 3 pch w=18u l=2u
+mfet50 13 14 77 3 pch w=18u l=2u
+mfet51 3 51 78 3 pch w=18u l=2u
+mfet52 3 13 12 3 pch w=18u l=2u
+mfet53 13 55 78 3 pch w=18u l=2u
+mfet54 3 12 77 3 pch w=18u l=2u
+mfet55 3 12 45 3 pch w=18u l=2u
+mfet56 54 14 80 3 pch w=18u l=2u
+mfet57 3 11 75 3 pch w=18u l=2u
+mfet58 54 55 79 3 pch w=18u l=2u
+mfet59 3 46 56 3 pch w=18u l=2u
+mfet60 3 51 79 3 pch w=18u l=2u
+mfet61 3 56 76 3 pch w=18u l=2u
+mfet62 3 54 51 3 pch w=18u l=2u
+mfet63 46 45 76 3 pch w=18u l=2u
+mfet64 3 13 80 3 pch w=18u l=2u
+mfet65 46 12 75 3 pch w=18u l=2u
+mfet66 3 14 55 3 pch w=18u l=2u
+mfet67 4 1 19 4 nch w=6u l=2u
+mfet68 17 1 20 4 nch w=6u l=2u
+mfet69 4 0 18 4 nch w=6u l=2u
+mfet70 4 21 20 4 nch w=6u l=2u
+mfet71 17 19 18 4 nch w=6u l=2u
+mfet72 4 17 21 4 nch w=6u l=2u
+mfet73 4 2 22 4 nch w=6u l=2u
+mfet74 5 31 16 4 nch w=6u l=2u
+mfet75 2 0 4 4 nch w=6u l=2u
+mfet76 5 6 15 4 nch w=6u l=2u
+mfet77 4 21 23 4 nch w=6u l=2u
+mfet78 4 35 15 4 nch w=6u l=2u
+mfet79 0 1 23 4 nch w=6u l=2u
+mfet80 1 5 4 4 nch w=6u l=2u
+mfet81 0 19 22 4 nch w=6u l=2u
+mfet82 4 1 16 4 nch w=6u l=2u
+mfet83 7 28 29 4 nch w=6u l=2u
+mfet84 4 24 30 4 nch w=6u l=2u
+mfet85 4 7 6 4 nch w=6u l=2u
+mfet86 7 8 30 4 nch w=6u l=2u
+mfet87 4 6 29 4 nch w=6u l=2u
+mfet88 4 6 31 4 nch w=6u l=2u
+mfet89 26 28 27 4 nch w=6u l=2u
+mfet90 4 5 33 4 nch w=6u l=2u
+mfet91 25 8 27 4 nch w=6u l=2u
+mfet92 4 32 35 4 nch w=6u l=2u
+mfet93 4 24 25 4 nch w=6u l=2u
+mfet94 4 35 34 4 nch w=6u l=2u
+mfet95 4 27 24 4 nch w=6u l=2u
+mfet96 32 6 34 4 nch w=6u l=2u
+mfet97 4 7 26 4 nch w=6u l=2u
+mfet98 32 31 33 4 nch w=6u l=2u
+mfet99 4 8 28 4 nch w=6u l=2u
+mfet100 4 10 40 4 nch w=6u l=2u
+mfet101 38 10 41 4 nch w=6u l=2u
+mfet102 4 9 39 4 nch w=6u l=2u
+mfet103 4 42 41 4 nch w=6u l=2u
+mfet104 38 40 39 4 nch w=6u l=2u
+mfet105 4 38 42 4 nch w=6u l=2u
+mfet106 4 8 36 4 nch w=6u l=2u
+mfet107 11 45 44 4 nch w=6u l=2u
+mfet108 4 9 8 4 nch w=6u l=2u
+mfet109 11 12 43 4 nch w=6u l=2u
+mfet110 4 42 37 4 nch w=6u l=2u
+mfet111 4 56 43 4 nch w=6u l=2u
+mfet112 9 10 37 4 nch w=6u l=2u
+mfet113 4 11 10 4 nch w=6u l=2u
+mfet114 9 40 36 4 nch w=6u l=2u
+mfet115 4 10 44 4 nch w=6u l=2u
+mfet116 13 55 49 4 nch w=6u l=2u
+mfet117 4 51 50 4 nch w=6u l=2u
+mfet118 4 13 12 4 nch w=6u l=2u
+mfet119 13 14 50 4 nch w=6u l=2u
+mfet120 4 12 49 4 nch w=6u l=2u
+mfet121 4 12 45 4 nch w=6u l=2u
+mfet122 53 55 54 4 nch w=6u l=2u
+mfet123 4 11 47 4 nch w=6u l=2u
+mfet124 52 14 54 4 nch w=6u l=2u
+mfet125 4 46 56 4 nch w=6u l=2u
+mfet126 4 51 52 4 nch w=6u l=2u
+mfet127 4 56 48 4 nch w=6u l=2u
+mfet128 4 54 51 4 nch w=6u l=2u
+mfet129 46 12 48 4 nch w=6u l=2u
+mfet130 4 13 53 4 nch w=6u l=2u
+mfet131 46 45 47 4 nch w=6u l=2u
+mfet132 4 14 55 4 nch w=6u l=2u
+.end
+** Net name table **
+*$ dff_v2.gex/D	0
+*$ dff_v2.gex/QB	0
+*$ dff_v2.gex/CK	1
+*$ dff_v2.gex/Q	1
+*$ dff_v2.gex/Q	2
+*$ dff_v2.gex/Vdd	3
+*$ dff_v2.gex/Gnd	4
+*$ dff_v2.gex/D	5
+*$ dff_v2.gex/QB	5
+*$ dff_v2.gex/CK	6
+*$ dff_v2.gex/Q	6
+*$ dff_v2.gex/D	7
+*$ dff_v2.gex/QB	7
+*$ dff_v2.gex/CK	8
+*$ dff_v2.gex/Q	8
+*$ dff_v2.gex/D	9
+*$ dff_v2.gex/QB	9
+*$ dff_v2.gex/CK	10
+*$ dff_v2.gex/Q	10
+*$ dff_v2.gex/D	11
+*$ dff_v2.gex/QB	11
+*$ dff_v2.gex/CK	12
+*$ dff_v2.gex/Q	12
+*$ dff_v2.gex/D	13
+*$ dff_v2.gex/QB	13
+*$ dff_v2.gex/CK	14
